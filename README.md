@@ -1,5 +1,7 @@
 # Iris Flower Classification - Machine Learning Project
 
+![Iris Species Header](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Iris_dataset_scatterplot.svg/1200px-Iris_dataset_scatterplot.svg.png)
+
 This project is a complete Machine Learning pipeline built in Google Colab.
 It classifies iris flowers into 3 species:
 
@@ -8,9 +10,6 @@ It classifies iris flowers into 3 species:
 * Virginica
 
 using sepal and petal measurements.
-
-![Iris Species Header]
-(https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Iris_dataset_scatterplot.svg/1200px-Iris_dataset_scatterplot.svg.png)
 
 The project now includes a comparison between:
 
@@ -31,6 +30,21 @@ The dataset relies on measuring the:
 * Petal Width
 
 of iris flowers.
+
+![Petal vs Sepal Diagram](https://editor.analyticsvidhya.com/uploads/51518iris%20img1.png)
+
+---
+
+# Model Comparison Visualization
+
+![XGBoost vs Random Forest](https://miro.medium.com/v2/resize\:fit:1400/1*QJZ6W-Pck_W7RlIDwUIN9Q.png)
+
+This project compares:
+
+* Random Forest (Bagging)
+* XGBoost (Boosting)
+
+to understand how ensemble learning models perform on structured datasets.
 
 ---
 
@@ -162,4 +176,4 @@ iris_model_comparison_randomforest_and_XGboost.ipynb
 
 # Author
 
-## Pulkit
+## Pulkit 🚀
