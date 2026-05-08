@@ -37,7 +37,6 @@ of iris flowers.
 
 # Model Comparison Visualization
 
-![XGBoost vs Random Forest](https://miro.medium.com/v2/resize\:fit:1400/1*QJZ6W-Pck_W7RlIDwUIN9Q.png)
 
 This project compares:
 
@@ -161,17 +160,6 @@ iris_ml_project.ipynb
 ```text
 iris_model_comparison_randomforest_and_XGboost.ipynb
 ```
-
----
-
-# Future Improvements
-
-* Streamlit Web App
-* Hyperparameter Tuning
-* Model Deployment
-* Larger Real-World Dataset
-* Additional ML Algorithms Comparison
-
 ---
 
 # Author
