@@ -37,6 +37,7 @@ of iris flowers.
 
 # Model Comparison Visualization
 
+![XGBoost vs Random Forest](https://miro.medium.com/v2/resize\:fit:1400/1*QJZ6W-Pck_W7RlIDwUIN9Q.png)
 
 This project compares:
 
@@ -96,7 +97,7 @@ Both Random Forest and XGBoost achieved very high accuracy (~95–100%).
 
 In the latest notebook:
 
-```text
+```text id="w1g2jk"
 iris_model_comparison_randomforest_and_XGboost.ipynb
 ```
 
@@ -151,15 +152,16 @@ The purpose of this comparison is to understand:
 
 ### Main Beginner Notebook
 
-```text
+```text id="g5w0tr"
 iris_ml_project.ipynb
 ```
 
 ### Advanced Comparison Notebook
 
-```text
+```text id="m2p8ls"
 iris_model_comparison_randomforest_and_XGboost.ipynb
 ```
+
 ---
 
 # Author
